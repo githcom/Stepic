@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="test-util.jar">
+    <CLASSES>
+      <root url="jar://D:/Programs/Java/test-util.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://D:/Programs/Java/test-util.jar.zip!/" recursive="false" />
+  </library>
+</component>
